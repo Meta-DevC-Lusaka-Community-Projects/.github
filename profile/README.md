@@ -34,5 +34,5 @@ As a local community, we're thriving to take a practical approach in creating im
 - ### National Health-care
 
 
-> You can add your suggestions [here](https://github.com/Meta-DevC-Lusaka-Community-Projects/guide/discussions/categories/ideas-projects) as well.
+> You can add your suggestions [here](https://github.com/Meta-DevC-Lusaka-Community-Projects/.github/discussions/categories/ideas-projects-suggestions) as well.
 
