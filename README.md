@@ -3,5 +3,6 @@ How the idea of this project started :thinking: ? check [this Facebook Room](htt
 
 > This is a your guide on how to contribute, create projects e.t.c
 
-## How it works? 
-Everything is in the [discussion tab](https://github.com/Meta-DevC-Lusaka-Community-Projects/guide/discussions/categories/ideas)
+## Discussions : 📋
+- Everything is in the [discussion tab](https://github.com/Meta-DevC-Lusaka-Community-Projects/guide/discussions/categories/ideas)
+
