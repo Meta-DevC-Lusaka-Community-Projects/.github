@@ -23,7 +23,7 @@ As a local community, we're thriving to take a practical approach in creating im
 - Annoucements? They're [here](https://github.com/Meta-DevC-Lusaka-Community-Projects/.github/discussions/categories/announcements)
 - Got an idea and would like to build it with the community? don't worry, drop it [here](https://github.com/Meta-DevC-Lusaka-Community-Projects/.github/discussions/categories/ideas-projects-suggestions)
 - Mmmh :thinking:... Maybe you need opinions and views from others on something - Simply put up a [Poll](https://github.com/Meta-DevC-Lusaka-Community-Projects/.github/discussions/categories/polls)
--  :question: Oh - actually you might just need a direct answer to a question. We got you covered under the [Q & A section](https://github.com/Meta-DevC-Lusaka-Community-Projects/.github/discussions/categories/q-a)
+-  :question: Oh - actually, sometimes all you need is a direct answer to a question. Don't worry, We got you covered under the [Q & A section](https://github.com/Meta-DevC-Lusaka-Community-Projects/.github/discussions/categories/q-a)
 - :smiley: Got something cool you've worked on ? [Show & tell](https://github.com/Meta-DevC-Lusaka-Community-Projects/.github/discussions/categories/show-and-tell) to inspire others
 
 ## Innovation Target Sectors 
